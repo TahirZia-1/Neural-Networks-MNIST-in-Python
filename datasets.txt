@@ -1,0 +1,2 @@
+1) Download the training and testing datasets from:
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
